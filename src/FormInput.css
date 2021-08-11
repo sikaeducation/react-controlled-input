@@ -1,0 +1,17 @@
+.FormInput {
+  border: none;
+  padding: 36px;
+  background-color: #fff;
+}
+
+.FormInput label {
+  margin-bottom: 16px;
+  display: block;
+  text-align: left;
+  color: hsl(240, 10%, 50%);
+}
+
+.FormInput input {
+  padding: 16px;
+  font-size: 24px;
+}
